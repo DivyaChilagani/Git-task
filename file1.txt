@@ -1,0 +1,5 @@
+Date: 14/07/2025
+
+Practicing git commands.
+
+This is file1.
